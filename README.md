@@ -1,6 +1,7 @@
 # Trim
 Metaprogram visual 3D editor
 
+## Installation
 make
 
 ## Need install that packages for compile Trim
@@ -11,10 +12,11 @@ make
 * libxml2-2.9.1.tar.gz                 
 * libxml-64bit.patch    
 
-###Mesa related libs and packages
-* freeglut.html - freeglut3-dev docs 
+### Mesa
 * MesaLib-9.1.6.tar.bz2
 
+### Mesa related libs and packages
+* freeglut.html - freeglut3-dev docs 
 * expat-2.1.0.tar.gz                      
 * gnubik_2.3.orig.tar.gz - Game for test and vector operations lib
 * libXi-1.7.2.tar.bz2
