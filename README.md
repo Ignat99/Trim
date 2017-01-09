@@ -2,7 +2,7 @@
 Metaprogram visual 3D editor
 
 ## Installation
-make
+make trim_lamanga 
 
 ## Need install that packages for compile Trim
 
