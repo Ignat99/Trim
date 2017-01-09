@@ -6,9 +6,7 @@ make
 ## Need install that packages for compile Trim
 
 ### Standart packages
-* Python-2.7.3.tar.bz2
-   
-* libtool_2.2.6b-2.diff.gz  
+* Python-2.7.3.tar.bz2  
 * libtool_2.2.6b.orig.tar.gz  
 * libxml2-2.9.1.tar.gz                 
 * libxml-64bit.patch    
